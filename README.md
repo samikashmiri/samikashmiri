@@ -1,3 +1,5 @@
+![logo](https://github.com/samikashmiri/samikashmiri/blob/main/WhatsApp%20Image%202025-03-06%20at%2000.06.58_1d8b930c.jpg)
+
 <h1 align="center">Hi 👋, I'm sami</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
